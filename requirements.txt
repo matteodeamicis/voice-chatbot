@@ -14,3 +14,4 @@ openai
 tiktoken
 faiss-cpu
 PyAudio
+six==1.12.0
