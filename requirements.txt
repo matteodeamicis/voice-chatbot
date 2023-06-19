@@ -13,3 +13,4 @@ transformers==4.24.0
 openai
 tiktoken
 faiss-cpu
+PyAudio
