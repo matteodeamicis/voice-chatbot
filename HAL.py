@@ -2,6 +2,7 @@ import streamlit as st
 import os
 import tempfile
 import PyPDF2
+import pyaudio
 from transformers import GPT2TokenizerFast
 from langchain.document_loaders import PyPDFLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
