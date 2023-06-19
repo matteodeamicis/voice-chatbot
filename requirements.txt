@@ -1,7 +1,7 @@
 gTTS==2.3.2
 ipython==8.10.0
 ipywidgets==8.0.6
-langchain==0.0.147
+langchain==0.0.137
 matplotlib==3.7.0
 pandas==1.5.3
 pydub==0.25.1
