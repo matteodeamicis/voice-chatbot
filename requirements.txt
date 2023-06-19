@@ -11,3 +11,4 @@ streamlit==1.18.1
 textract==1.6.5
 transformers==4.24.0
 openai
+tiktoken
