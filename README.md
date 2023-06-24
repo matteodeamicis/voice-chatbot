@@ -1,4 +1,4 @@
-# voice chatbot
+# Voice Chatbot
 To properly execute the solution, you need to follow the following instructions:
 
 1. Make sure you have Python installed on your system. You can download it from the official Python website (https://www.python.org/) and follow the appropriate installation instructions for your operating system.
